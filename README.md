@@ -27,9 +27,9 @@ The course is an intensive, project-based deep dive into Python 3, covering ever
 
 | # | Project Link | Status |
 |---|--------------|--------|
-| 01 | [Bouncer Logic](./01_Bouncer_Logic) | ✅ |
-| 02 | [Rock Paper Scissors](#) | 🏗️ |
-| 03 | [Coming Soon](#) | ⏳ |
+| 01 | [Rock Paper Scissors](./09_Rock_Paper_Scissors) | ✅ |
+| 02 | [Coming Soon](#) | ⏳ |
+| ... | ... | ... | ... |
 
 ### 🔑 Legend
 * ✅ **Completed**: Project is finished and code is optimized.
